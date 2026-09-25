@@ -1,120 +1,153 @@
 <div align="center">
 
-# 👋 Hi, I'm **Abhinav Jacob Sunny**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ABHINAV%20JACOB%20SUNNY&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=18"/>
 
-### 💻 Computer Science Engineering Student
+<br>
 
-### 🤖 AI/ML • Data Science • Generative AI • Python
+### `Building ideas into software. Exploring AI. Learning every day.`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+%26+Data+Science+Enthusiast;Python+Developer;Generative+AI+Explorer;Building+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br><br>
+<br>
 
 <a href="https://github.com/abhinavjacobsunny">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="mailto:abhinavjacob2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01` — About Me
 
-> 🎓 B.Tech Computer Science & Engineering student at **Vimal Jyothi Engineering College**
->
-> 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Science & Generative AI**
->
-> 🐍 Building projects with **Python and modern web technologies**
->
-> ☁️ Exploring **Cloud Computing, LLMs, APIs and AI-powered applications**
->
-> 🚀 Passionate about turning ideas into practical software solutions
+<table>
+<tr>
+<td width="60%">
 
----
+### Hey there! 👋
 
-## ⚡ Tech Stack
+I'm **Abhinav Jacob Sunny**, a Computer Science & Engineering student from Kerala, India.
 
-### 💻 Languages
+I'm interested in building practical solutions using **Python, Artificial Intelligence, Machine Learning, Data Science and modern web technologies**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java" height="45"/>
-</p>
+Currently exploring the intersection of:
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+`AI` × `Data` × `Software`
 
-### 🌐 Web Development
+I enjoy learning by building projects and gaining hands-on experience through internships and real-world applications.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,flask" height="45"/>
-</p>
+</td>
 
-### 🤖 AI / Data Science
+<td width="40%">
 
-<p>
+```text
+┌──────────────────────┐
+│    DEVELOPER.CARD    │
+├──────────────────────┤
+│                      │
+│  🎓 CSE Student      │
+│  📍 Kerala, India    │
+│                      │
+│  Focus               │
+│  ├─ AI / ML          │
+│  ├─ Data Science     │
+│  ├─ Gen AI           │
+│  └─ Development      │
+│                      │
+└──────────────────────┘
+```
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Project
+## `02` — Technology
+
+### Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,java" height="48"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="30"/>
+
+</p>
+
+### Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,flask" height="48"/>
+
+</p>
+
+### AI / Data
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30"/>
+
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postgresql" height="48"/>
+
+</p>
+
+---
+
+## `03` — Featured Project
 
 <div align="center">
 
-## 👕 404 Clothing — E-Commerce Website
+# 👕 404 Clothing
 
-### A Full-Stack E-Commerce Platform
+### Full-Stack E-Commerce Platform
+
+`Flask` · `Python` · `JavaScript` · `Supabase` · `PostgreSQL` · `Razorpay`
 
 </div>
+
+<br>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧩 Technology
+### What I Built
 
-```text
-Python
-Flask
-HTML
-CSS
-JavaScript
-Supabase
-PostgreSQL
-Razorpay
-```
+A full-stack e-commerce platform designed for a local clothing store.
+
+The application combines a customer-facing shopping experience with an administrative management dashboard.
 
 </td>
 
 <td width="50%">
 
-### ✨ Features
+### Core Features
 
 ```text
-🔐 User Authentication
+🔐 Authentication
 🛍️ Product Browsing
 🔎 Category Filtering
 🛒 Shopping Cart
 📦 Order Management
-💳 Razorpay Payments
+💳 Razorpay Integration
 📊 Admin Dashboard
 ```
 
@@ -122,73 +155,57 @@ Razorpay
 </tr>
 </table>
 
-> Developed a full-stack e-commerce platform for a local clothing store with product management, customer orders, authentication, shopping cart functionality and online payments.
-
 ---
 
-# 💼 Internship Experience
+## `04` — Experience
 
-### 🤖 Generative AI & Cloud Computing Intern
+### `GENERATIVE AI & CLOUD COMPUTING`
 
 **BharatCares — IBM SkillsBuild**
+`Jun 2026 → Jul 2026`
 
-`June 2026 — July 2026`
+> 6-week internship focused on Generative AI, Cloud Computing and AI-powered applications.
 
-```text
-6-Week Internship
-```
+**Explored**
 
-**Areas of Exposure**
-
-* 🤖 Generative AI
-* ✍️ Prompt Engineering
-* 🧠 Large Language Models
-* 🔌 API Architecture
-* ☁️ Cloud Computing
-* ☁️ AWS Cloud Services
-* 🚀 AI-Powered Applications
-
-Gained practical experience through project-based learning using IBM SkillsBuild and explored cloud-based AI solutions.
+`Generative AI` · `Prompt Engineering` · `LLMs`
+`API Architecture` · `AWS` · `Cloud AI Solutions`
 
 ---
 
-### 🧠 Machine Learning Intern
+### `MACHINE LEARNING`
 
 **SkillCraft Technology**
+`Dec 2025 → Jan 2026`
 
-`December 2025 — January 2026`
+> One-month internship focused on Machine Learning, Data Analysis and Python.
 
 **Worked With**
 
-* 🐍 Python
-* 📊 Data Analysis
-* 🧹 Data Preprocessing
-* 🤖 Machine Learning
-* 📈 Predictive Models
-
-Preprocessed and analyzed datasets, implemented machine learning algorithms, and developed Python-based ML projects.
+`Data Preprocessing` · `Data Analysis`
+`Machine Learning Algorithms` · `Predictive Models` · `Python`
 
 ---
 
-# 🎓 Education
+## `05` — Education
 
-### 🎓 Bachelor of Technology — Computer Science & Engineering
+### 🎓 B.Tech — Computer Science & Engineering
 
 **Vimal Jyothi Engineering College, Kerala**
 
 `2023 — Present`
 
-**CGPA:** `7.64`
+**CGPA — 7.64**
 
 ---
 
-### 📘 Higher Secondary — Computer Science
+### 📚 Higher Secondary — Computer Science
 
 **St. Joseph HSS Vayatuparamba**
 
 `2021 — 2023`
 
-**Percentage:** `93.5%`
+**93.5%**
 
 ---
 
@@ -198,143 +215,103 @@ Preprocessed and analyzed datasets, implemented machine learning algorithms, and
 
 `2021`
 
-**Percentage:** `86.4%`
+**86.4%**
 
 ---
 
-# 📜 Certifications
+## `06` — Certifications
 
 <div align="center">
 
-| Certification                         | Organization  |
-| :------------------------------------ | :------------ |
-| 🤖 Getting Started with Generative AI | IBM           |
-| 🐍 Python Programming                 | STEM Robotics |
-| ☕ Programming in Java                 | NPTEL         |
+|     | Certification                      |    Organization   |
+| :-: | :--------------------------------- | :---------------: |
+|  🤖 | Getting Started with Generative AI |      **IBM**      |
+|  🐍 | Python Programming                 | **STEM Robotics** |
+|  ☕  | Programming in Java                |     **NPTEL**     |
 
 </div>
 
 ---
 
-# 📚 Coursework
-
-```text
-Data Structures & Algorithms
-Operating Systems
-Database Management Systems
-Computer Networks
-Computer Organization & Architecture
-```
-
----
-
-# 🌎 Languages
-
-🇬🇧 **English**
-
-🇮🇳 **Malayalam**
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavjacobsunny&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavjacobsunny&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhinavjacobsunny&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
+## `07` — Currently Learning
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════╗
-║                                      ║
-║     🤖 Artificial Intelligence       ║
-║     🧠 Machine Learning              ║
-║     📊 Data Science                  ║
-║     ✨ Generative AI                 ║
-║     ☁️ Cloud Computing               ║
-║     💻 Software Development          ║
-║                                      ║
-╚══════════════════════════════════════╝
+                    ┌─────────────────┐
+                    │  ARTIFICIAL     │
+                    │  INTELLIGENCE   │
+                    └────────┬────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+       ┌──────────┐    ┌──────────┐    ┌──────────┐
+       │   ML     │    │  GEN AI  │    │   DATA   │
+       │          │    │          │    │ SCIENCE  │
+       └──────────┘    └──────────┘    └──────────┘
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │  CLOUD & AI     │
+                    │  APPLICATIONS   │
+                    └─────────────────┘
 ```
 
 </div>
 
 ---
 
-# 📈 My Developer Journey
+## `08` — GitHub Activity
 
-```text
-        Python
-           │
-           ▼
-     Programming
-           │
-           ▼
-     Data Analysis
-           │
-           ▼
-   Machine Learning
-           │
-           ▼
-   Generative AI
-           │
-           ▼
-   Cloud Computing
-           │
-           ▼
-  AI-Powered Applications
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavjacobsunny&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavjacobsunny&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e"/>
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+## `09` — Developer Philosophy
 
 <div align="center">
+
+### `Learn → Build → Break → Fix → Improve`
+
+<br>
+
+*"The best way to learn technology is to build something with it."*
+
+</div>
+
+---
+
+## `10` — Let's Connect
+
+<div align="center">
+
+📧 **[abhinavjacob2004@gmail.com](mailto:abhinavjacob2004@gmail.com)**
+
+<br>
 
 <a href="mailto:abhinavjacob2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-abhinavjacob2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://github.com/abhinavjacobsunny">
-<img src="https://img.shields.io/badge/GitHub-Abhinav%20Jacob%20Sunny-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br><br>
-
-### 💡 Learn • Build • Experiment • Improve
-
-⭐ Thanks for visiting my profile!
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abhinavjacobsunny&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
