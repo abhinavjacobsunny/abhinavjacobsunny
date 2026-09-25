@@ -1,98 +1,151 @@
 <div align="center">
 
-# ABHINAV JACOB SUNNY
+<br>
 
-### Computer Science Engineering Student · AI/ML · Data Science
+# 𝐀𝐁𝐇𝐈𝐍𝐀𝐕 𝐉𝐀𝐂𝐎𝐁 𝐒𝐔𝐍𝐍𝐘
+
+### `Computer Science Engineer` · `AI/ML` · `Data Science`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/abhinavjacobsunny)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:abhinavjacob2004@gmail.com)
+**Building intelligent solutions with code & data.**
+
+<br>
+
+<a href="https://github.com/abhinavjacobsunny">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abhinav-jacob-sunny-871113291/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:abhinavjacob2004@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
 
 </div>
 
-<br>
+---
+
+## About
+
+Computer Science & Engineering student focused on **Artificial Intelligence, Machine Learning, Data Science, Generative AI, and Python development**.
+
+Interested in building practical applications and exploring AI-powered solutions.
+
+📍 **Kerala, India**
 
 ---
 
-### About
+## Tech Stack
 
-Computer Science & Engineering student focused on **Artificial Intelligence, Machine Learning, Data Science, and Python development**.
-
-Currently building practical software and exploring AI-powered applications.
-
-**Based in Kerala, India.**
-
----
-
-### Tech
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,nodejs,flask,git,github,vscode,aws,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,c,java" height="45"/>
 </p>
 
-`AI/ML` · `Data Science` · `Generative AI` · `SQL`
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white"/>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,flask" height="45"/>
+</p>
+
+### AI & Data
+
+<p>
+
+<img src="https://img.shields.io/badge/AI%2FML-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Science-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111111?style=flat-square"/>
+
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postgresql" height="45"/>
+</p>
 
 ---
 
-### Selected Work
+## Experience
 
-<table>
-<tr>
-<td width="50%">
+### Generative AI & Cloud Computing Intern
 
-#### 404 Clothing
+**BharatCares — IBM SkillsBuild**
+`Jun 2026 – Jul 2026`
 
-Full-stack e-commerce platform for a local clothing store.
+Worked on Generative AI, Cloud Computing and AI-powered applications.
 
-`Flask` `Python` `JavaScript`
-`PostgreSQL` `Supabase` `Razorpay`
-
-</td>
-
-<td width="50%">
-
-#### Machine Learning
-
-Practical ML and data-analysis projects developed during internship experience.
-
-`Python` `Data Analysis`
-`Machine Learning` `Predictive Models`
-
-</td>
-</tr>
-</table>
+`Generative AI` · `Prompt Engineering` · `LLMs`
+`API Architecture` · `AWS` · `Cloud Solutions`
 
 ---
 
-### Experience
+### Machine Learning Intern
 
-**Generative AI & Cloud Computing Intern**
-BharatCares · IBM SkillsBuild · `2026`
+**SkillCraft Technology**
+`Dec 2025 – Jan 2026`
 
-**Machine Learning Intern**
-SkillCraft Technology · `2025–2026`
+Worked on Machine Learning, Data Analysis and Python-based projects.
+
+`Python` · `Data Analysis` · `Machine Learning`
+`Data Preprocessing` · `Predictive Models`
 
 ---
 
-### Education
+## Education
 
-**B.Tech — Computer Science & Engineering**
-Vimal Jyothi Engineering College · `2023–Present`
-CGPA **7.64**
+### B.Tech — Computer Science & Engineering
+
+**Vimal Jyothi Engineering College, Kerala**
+
+`2023 – Present` · **CGPA 7.64**
+
+---
+
+### Higher Secondary — Computer Science
+
+**St. Joseph HSS Vayatuparamba**
+
+`2021 – 2023` · **93.5%**
+
+---
+
+### High School
+
+**St. Marys Convent Senior Secondary School, Alakode**
+
+`2021` · **86.4%**
 
 ---
 
 <div align="center">
 
-### Let's Connect
+## Connect
+
+<br>
+
+<a href="https://github.com/abhinavjacobsunny">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhinav-jacob-sunny-871113291/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:abhinavjacob2004@gmail.com">
-<img src="https://img.shields.io/badge/abhinavjacob2004%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<sub>Building • Learning • Creating</sub>
+<sub>© 2026 Abhinav Jacob Sunny</sub>
 
 </div>
